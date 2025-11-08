@@ -12,3 +12,10 @@ Message frequency may vary. Standard message and data rates may apply.
 Reply **STOP** to opt out at any time or **HELP** for assistance.  
 No marketing or promotional messages will be sent.  
 For questions, contact **raorosz@gmail.com**.
+
+## Privacy Policy
+
+The Golf League App only collects player names and phone numbers for the purpose of league participation.  
+This information is used solely to send match reminders, scorecard links, and handicap updates.  
+No data is shared, sold, or used for marketing purposes.  
+Players can opt out at any time by replying STOP to any message.
